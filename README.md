@@ -1,4 +1,4 @@
-# Phrase-Tools---SEO-Tools
+# Phrase Tools - SEO-Tools
 The Mac OS application is designed for SEO specialists, copywriters and marketers, allowing them to work effectively with keywords, group them, analyze search volume and prepare data for website promotion and advertising campaigns.
 
 ATTENTION!!!
